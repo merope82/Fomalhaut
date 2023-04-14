@@ -6,13 +6,13 @@ and presentation quality images.
 
 ## Labeled 25.5 micron image
 
-This image highlights the various components identified in the 25.5 micron MIRI image
+This image highlights the various components identified in the 25.5 micron MIRI image.
 
 ![Labeled 25.5 micron image](01_Labels.png)
 
 ## Gallery
 
-In this image, we present a gallery of the system, showcasing the best available images at various wavelengths
+In this image, we present a gallery of the system, showcasing the best available images at various wavelengths.
 
 ![Gallery image](02_Gallery.png)
 
@@ -24,14 +24,14 @@ Here, we show how the system would appear as if viewed face-on utilizing orbit f
 
 ## 23/25 color image
 
-This is a color image, produced using the 23.0 and 25.5 micron observations
+This is a color image, produced using the 23.0 and 25.5 micron observations.
 
 ![A color image produced using the 23 and 25.5 micron dataset](04_Color_labels.png)
 
 ## Enhanced images
 
 Courtesy of Adam Block, we also have ehnanced images that showcase how the system would likely look with higher SNR observations. 
-The first image combines available HST, JWST/MIRI, and ALMA observations
+The first image combines available HST, JWST/MIRI, and ALMA observations.
 
 ![Color HST + ALMA + MIRI image](09_HST+ALMA+MIRI.jpeg)
 
