@@ -50,3 +50,6 @@ flux calibrated following the methods described in our paper. For the 23 and 25.
 also provide distortion corrected solutions. The distortion is negligible (less than 1.5 px) even at
 23 and 25.5 microns and practically non-existent in the small field-of-view of the 15.5 micron dataset.
 
+## Manuscript
+
+Until the manuscript is available on arXiv (which should be on May 9, 2023), I'll upload the preprint here.
